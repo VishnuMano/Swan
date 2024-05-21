@@ -1,5 +1,5 @@
 # Swan
-AI-powered Asset Management Tool for Video Editors
+AI-powered Digital Asset Management Tool for Video Editors
 ## Functionalities:
 1. Content-based Asset Search (with Image Recognition)
 2. AI Image Restoration (removing noise/imperfections)
